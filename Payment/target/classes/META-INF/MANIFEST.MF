@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Someshwar Singh
+Build-Jdk: 17.0.1
+Implementation-Title: Payment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.casestudy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Payment
+Created-By: Maven Integration for Eclipse
+
